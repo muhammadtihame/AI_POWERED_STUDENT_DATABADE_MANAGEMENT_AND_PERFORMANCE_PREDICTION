@@ -1,0 +1,7 @@
+student_id,name,study_hours,attendance,previous_marks,extracurricular,performance,marks,DateOfBirth,EnrollmentDate,LastLoginDate,CourseGrades,Attendance (%),GradeAvg,CreditHours,Major,Residency,FinancialAid,PandemicEffect
+489ff090,tihame,28.5,80.0,70.0,Yes,Average,75.01478721266,2000-01-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",80.0,75.0,12.0,ComputerScience,OnCampus,Yes,Affected
+fea2baa8,uzi,,,,,,,2000-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",80.0,75.0,12.0,ComputerScience,OnCampus,Yes,Affected
+d336e9e0,mutasim,,,,,Average,75.01478721266,2000-01-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",80.0,75.0,12.0,ComputerScience,OnCampus,Yes,Affected
+d09cec72,any,,,,,High,90.8324913927803,2000-01-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",95.0,91.0,16.0,Engineering,OffCampus,No,NotAffected
+83f867ad,Shafi Nabi,,,,,High,95.03784021347616,2000-01-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",97.0,95.0,16.0,Engineering,OffCampus,No,NotAffected
+25351517,Ajay,,,,,Average,75.10167686495348,2000-01-01,2020-01-01,2025-04-01,"[{""C1"": 85}, {""C2"": 90}]",75.0,75.0,8.0,Engineering,OffCampus,No,NotAffected
